@@ -8,7 +8,7 @@
 - Template用のリポジトリになっていますので、まずは「Use this template」から自分のリポジトリとして作成します。
 - 作成したリポジトリをgit cloneで取り寄せます。
 - npm installします。
-- <head>や<body>内にあるテキストを削除します。
+- headタグやbodyタグ内にあるテキストを削除します。
 - style.scss内のスタイリングを削除します。
 
 ### ディレクトリについて
